@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 💟
 
-Meu nome é Beatriz Legal 🪐
+Meu nome é Beatriz Legal 💛
 
- - Estou estudando no [Alura] (https://www.alura.com.br)
+ - Estou estudando no [Alura](https://www.alura.com.br)
  - estou me desenvolvendo na linguagem JavaScrip
  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,4 @@ Meu nome é Beatriz Legal 🪐
 
 @beatrizleg
 
-
-![]
+![](https://media1.tenor.com/m/_F5AX4UOX4AAAAAC/dragon-toothless.gif)
